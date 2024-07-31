@@ -21,3 +21,28 @@ h1[value="2"]{
 h2[value="2"]{
     text-align: center;
 }
+
+body[value="body"]{
+    background-color: bisque;
+    text-align: center;   
+    text-transform: uppercase; 
+}
+
+.what{
+    background-color: blanchedalmond;
+    font-family: "Tinos", serif;
+}
+.certifi{
+    
+    width: 50%;
+    margin-left: 25%;
+    text-transform: lowercase;
+    text-align: center;
+}
+
+div{
+    height: 600px;width: 600;
+    border: 5px solid black;
+    padding: 10px;
+    margin: 10px;
+}
